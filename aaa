@@ -1,0 +1,2 @@
+LIBS += -L"3rdparty/tiff-4.0.7/libtiff" -llibtiff
+INCLUDEPATH += 3rdparty/tiff-4.0.7/libtiff
